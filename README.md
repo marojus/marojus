@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Shilpa Maroju  
+# 👋 Hi There,
 ### Emerging ML Enthusiast | Protein Chemistry & Biotech R&D | Learning De Novo Protein Design
 
 Welcome to my GitHub!  
-I'm a scientist and R&D program manager transitioning into **machine learning–driven protein design**, with hands-on experience in **protein chemistry, single-cell workflows, robotics-enabled multiplexing, and biotech innovation**.
+I'm a Scientist and R&D program manager transitioning into **machine learning–driven protein design**, with hands-on experience in **protein chemistry, single-cell workflows, robotics-enabled multiplexing, and biotech innovation**.
 
 I’m now expanding my toolkit into **AI/ML models for de novo protein and antibody engineering** — building projects that combine wet-lab intuition with computational design.
 
